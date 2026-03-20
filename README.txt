@@ -13,4 +13,4 @@ TO DO:
 7. on GitHub, create pull request
 8. one person resolves and everyone else should watch
 
-I changed README wow
+I changed README wows
